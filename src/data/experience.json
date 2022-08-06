@@ -1,0 +1,86 @@
+{
+    "data":
+        {
+            "resumeBullets": [
+                { "label": "Education", "logoSrc": "education.svg" },
+                { "label": "Work History", "logoSrc": "work-history.svg" },
+                { "label": "Programming Skills", "logoSrc": "programming-skills.svg" },
+                { "label": "Projects", "logoSrc": "projects.svg" },
+                { "label": "Interests", "logoSrc": "interests.svg" }
+              ],
+            "programmingSkillDetails":[
+                {"skill": "JavaScript", "ratingPercentage": 50},
+                {"skill": "React JS", "ratingPercentage": 70},
+                {"skill": "React Native", "ratingPercentage": 40},
+                {"skill": "Express JS", "ratingPercentage": 30},
+                {"skill": "PHP", "ratingPercentage": 90},
+                {"skill": "Laravel 10", "ratingPercentage": 30},
+                {"skill": "NodeJS", "ratingPercentage": 80},
+                {"skill": "HTML5", "ratingPercentage": 60},
+                {"skill": "CSS3", "ratingPercentage": 90},
+                {"skill": "Bootstrap", "ratingPercentage": 50}
+              ],
+              "projectDetails" :[
+                {
+                  "title": "Personal Portfolio Website",
+                  "deration": {"fromDate": "2022", "toDate": "2022"},
+                  "description": "A Personal Portfolio website to showcase all my details and projects at one place.",
+                  "subHeading": "Technologies Used: React JS, Bootsrap"
+                  },
+                  {
+                    "title": "Personal Portfolio Website",
+                    "deration": {"fromDate": "2022", "toDate": "2022"},
+                    "description": "A Personal Portfolio website to showcase all my details and projects at one place.",
+                    "subHeading": "Technologies Used: React JS, Bootsrap"
+                  },
+                  {
+                    "title": "Personal Portfolio Website",
+                    "deration": {"fromDate": "2022", "toDate": "2022"},
+                    "description": "A Personal Portfolio website to showcase all my details and projects at one place.",
+                    "subHeading": "Technologies Used: React JS, Bootsrap"
+                  }
+              ],
+              "resumeDetails":[
+                {
+                    "heading":"University of Zimbabwe, Zimbabwe",
+                    "subHeading":"CERTIFICATE INFORMATION TECHNOLOGY",
+                    "fromDate":"2022",
+                    "toDate":"2022"
+                },
+                {
+                    "heading":"FOUNDATION TECHNICAL COLLEGE",
+                    "subHeading":"CERTIFICATE INFORMATION TECHNOLOGY",
+                    "fromDate":"2014",
+                    "toDate":"2017"
+                },
+                {
+                    "heading":"Company Name",
+                    "subHeading":"Junior Sofware Engineer",
+                    "fromDate":"2022",
+                    "toDate":"Present"
+                }
+                
+              ],
+              "experience": [
+                {
+                  "message_1": "-Developed an ecommerce website for client with the dashboard for managing the products, managing reviews, users, payment etc.",
+                  "message_2":"- Integrated the web app with backend services to create new use onboarding application with dynamic form content.",
+                   "message_3" :"I stretch my mental capacity to develope UI as per the give designs."      
+              }
+              ],
+               "interests": [
+                {
+                  "heading":"Music",
+                   "description":"Listening to soothing music is something i can never compromise with, skimming through Spotify's pop songs charts is at times the best stress reliever that i can get my hands on."
+                },
+                {
+                  "heading":"Teaching",
+                  "description":"Apart from being a tech enthusiast and a code writer, i also love to teach people what i know simply because i believe in sharing."
+                },
+                {
+                  "heading":"Competitive Gaming",
+                  "description":"I like to challenge my reflexes a lot while competing in football games, pushing the rank and having interactive gaming sessions excites me the most."
+                }
+               ]
+        }
+}
