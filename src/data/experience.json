@@ -8,20 +8,18 @@
         "logoSrc": "education.svg",
         
         "details": [
-         
           {
-            "heading": "FOUNDATION TECHNICAL COLLEGE, Zimbabwe",
-            "subHeading": "ZMSEC ORDINARY LEVEL",
-            "fromDate": "2007",
-            "toDate": "2012"
+            "heading":"BRAINIEST TRAINING PROGRAM, GERMANY",
+            "subHeading":"FROND-END CERTIFICATE",
+            "fromDate": "2022",
+            "toDate": "2022"
           },
-
           {
-            "heading":"NO DEGREES OR SOFTWARE CERTIFICATES HERE",
-            "subHeading":"FROND-END CERTIFICATE IS UNDERWAY"
+            "heading":"FOUNDATION TECHNICAL COLLEGE, Zimbabwe",
+            "subHeading":"ORDINARY LEVEL",
+            "fromDate":"2007",
+            "toDate":"2012"
           }
-         
-          
         ]
       },
       {
@@ -29,7 +27,7 @@
         "logoSrc": "work-history.svg",
         "details": [
           {
-            "heading":"CONCERTMASTER DEV-HOUSE Technology",
+            "heading":"THECODEMASTER Technology",
             "subHeading":"Junior Software Engineering",
             "fromDate":"Dec 2021",
             "toDate":"Present"
